@@ -1,7 +1,7 @@
 
 function Food(){
 
-    const food1 = "Munchurion"
+    const food1 = "Munchurions"
     const food2 = "Chowmin"
     const MyPrice = [20,70,60]
 
